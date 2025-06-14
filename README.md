@@ -1,3 +1,3 @@
-# mart.indiafact
-Mart.Indiafact a new business listing portal that includes a store's location, user reviews, business contact / socials, hours of operation, etc. 
-, this project is about a local business listing where business person can list their services and products along with contact details and business address
+# Mart.Indiafact: Your Local Business & Service Finder for India.
+
+A comprehensive web portal designed to connect customers with local businesses across India. Mart.Indiafact allows business owners to list their services, products, contact information, hours of operation, and location, while users can easily search, review, and discover local shops and services in their vicinity. Users benefit from robust search capabilities, authentic reviews, and a seamless way to find and engage with local establishments.
